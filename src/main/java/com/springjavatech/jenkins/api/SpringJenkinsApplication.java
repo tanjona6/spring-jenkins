@@ -1,3 +1,4 @@
+
 package com.springjavatech.jenkins.api;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -18,7 +19,7 @@ private void intt() {
 
 }
 	public static void main(String[] args) {
-		logger.info("Application excecuted");
+		logger.info("Application ");
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 	}
 
